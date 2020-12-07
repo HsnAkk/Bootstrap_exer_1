@@ -6,4 +6,4 @@
 
 ### Live version
 
-In order to see live version, just [click...!](https://hsnakk.github.io/Bootstrap_exer_1/)
+In order to see online version, just [click...!](https://hsnakk.github.io/Bootstrap_exer_1/)
